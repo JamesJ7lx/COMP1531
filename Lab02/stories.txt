@@ -1,0 +1,11 @@
+Stories:
+
+As a person interseted in religion, i'd like to see when bible studies is on 
+As a student i'd like to minimise my days at uni by choosing as many classes on the same day
+As a student id like to minimise the clashes between class time
+As a student id like to minimise gaps between classes
+As a student id like to plan for the same classes as friends
+As a tutor id like to see what possible classes i can teach
+As a highschool studen interseted in uni life times
+As a part time or post grad student determining if I have enough time for uni 
+
